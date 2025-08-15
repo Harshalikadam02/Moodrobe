@@ -1,0 +1,8 @@
+{
+  "name": "moodrobe",
+  "version": "1.0.0",
+  "description": "Gen-Z virtual fashion assistant web app",
+  "scripts": {
+    "test": "echo 'No tests yet'"
+  }
+}
